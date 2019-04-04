@@ -1,0 +1,21 @@
+{
+    "name": "sfdx-dxpm-plugin",
+    "version": "0.1.0",
+    "description": "A Salesforce CLI plugin built by Shawn Wallis with commands for managing packages.",
+    "author": "Shawn Wallis",
+    "repository": "shawalli/sfdx-dxpm-plugin",
+    "keywords": [
+        "force.com",
+        "salesforce",
+        "salesforce-dx",
+        "salesforcedx",
+        "sfdx",
+        "oss",
+        "dxpm",
+        "plugin"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "salesforce-alm": "^43.12.0"
+    }
+}
